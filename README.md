@@ -30,3 +30,6 @@ The application is hosted on Heroku. There is no front-end portion to this appli
 
 _Saurav Saha, Ahmed Abdelmoneim, Seif Ghazi_
 
+### 📤 Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chathush999/SlackNewsBot)
+
